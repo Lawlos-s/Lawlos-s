@@ -10,28 +10,28 @@
 
 ###
 
-<img align="right" height="220" src="https://i.imgur.com/ZXsrEnV.png"  />
+<img align="right" height="250" src="https://i.imgur.com/ZXsrEnV.png"  />
 
 ###
 
-<img align="left" height="200" src="https://militarymachine.com/wp-content/uploads/2016/10/Panavia-Tornado-Military-Machine.gif"  />
+<img align="left" height="240" src="https://militarymachine.com/wp-content/uploads/2016/10/Panavia-Tornado-Military-Machine.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="lua logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
 </div>
 
 ###
@@ -46,9 +46,3 @@
 </div>
 
 ###
-
-
-
-https://github.com/user-attachments/assets/5398b69c-a7f3-4a9b-a7de-0e0a5e3e6b35
-
-
