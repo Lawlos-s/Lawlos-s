@@ -1,24 +1,22 @@
-<div align="center">
-  <img height="200" src="https://i.imgur.com/IcVzfZd.png"  />
-</div>
-
-###
-
-<h2 align="center">ABÜ Bilgisayar Programcılığı Öğrencisi</h2>
+<img align="left" height="200" src="https://i.imgur.com/IcVzfZd.png"  />
 
 ###
 
 <br clear="both">
 
-<img align="right" height="270" src="https://i.imgur.com/ZXsrEnV.png"  />
+<h1 align="center">ABÜ Bilgisayar Programcılığı Öğrencisi</h1>
 
 ###
 
-<img align="left" height="250" src="https://i.imgur.com/VnzsLOe.jpg"  />
+<img align="right" height="260" src="https://i.imgur.com/ZXsrEnV.png"  />
 
 ###
 
-<div align="left">
+<img align="left" height="250" src="https://militarymachine.com/wp-content/uploads/2016/10/Panavia-Tornado-Military-Machine.gif"  />
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
@@ -28,18 +26,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/aege_0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="72" height="60" alt="instagram logo"  />
-  </a>
-  <a href="egeakman200707@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="60" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
@@ -47,5 +34,16 @@
 
 ###
 
-https://github.com/user-attachments/assets/c07db521-f53c-46b2-a6ea-2cb069c99217
+<div align="center">
+  <a href="egeakman200707@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=E-MAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/aege_0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+https://github.com/user-attachments/assets/416d3676-9de1-4eeb-93e0-e754cad053a4
 
