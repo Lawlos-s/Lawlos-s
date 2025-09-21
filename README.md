@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="left" height="200" src="https://i.imgur.com/IcVzfZd.png"  />
 
 ###
@@ -8,11 +10,11 @@
 
 ###
 
-<img align="right" height="260" src="https://i.imgur.com/ZXsrEnV.png"  />
+<img align="left" height="260" src="https://i.imgur.com/ZXsrEnV.png"  />
 
 ###
 
-<img align="left" height="250" src="https://militarymachine.com/wp-content/uploads/2016/10/Panavia-Tornado-Military-Machine.gif"  />
+<img align="right" height="260" src="https://militarymachine.com/wp-content/uploads/2016/10/Panavia-Tornado-Military-Machine.gif"  />
 
 ###
 
