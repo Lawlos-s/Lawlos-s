@@ -14,7 +14,7 @@
 
 ###
 
-<img align="left" height="240" src="https://militarymachine.com/wp-content/uploads/2016/10/Panavia-Tornado-Military-Machine.gif"  />
+<img align="left" height="200" src="https://militarymachine.com/wp-content/uploads/2016/10/Panavia-Tornado-Military-Machine.gif"  />
 
 ###
 
