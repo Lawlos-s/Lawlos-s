@@ -1,4 +1,4 @@
-[<img align="left" height="200" src="https://i.imgur.com/IcVzfZd.png"  />
+<img align="left" height="200" src="https://i.imgur.com/IcVzfZd.png"  />
 
 ###
 
@@ -36,15 +36,11 @@
 
 <div align="center">
   <a href="egeakman200707@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=E-MAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=E-MAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/aege_0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
 
 ###
-
-https://github.com/user-attachments/assets/416d3676-9de1-4eeb-93e0-e754cad053a4
-
-](https://github.com/Lawlos-s)
