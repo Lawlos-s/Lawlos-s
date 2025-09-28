@@ -10,11 +10,15 @@
 
 ###
 
-<img align="right" height="240" src="https://i.imgur.com/ZXsrEnV.png"  />
+<h1 align="center">────────────────────────────────</h1>
 
 ###
 
-<img align="left" height="220" src="https://i.imgur.com/VnzsLOe.gif"  />
+<img align="right" height="250" src="https://i.imgur.com/ZXsrEnV.png"  />
+
+###
+
+<img align="left" height="230" src="https://i.imgur.com/VnzsLOe.gif"  />
 
 ###
 
