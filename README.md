@@ -58,3 +58,8 @@
 ###
 
 https://github.com/user-attachments/assets/1a522353-4e70-42fb-8607-e965dbd844da
+
+
+
+[![Now Playing Spotify](https://svg-spotify-status.thearmagan.workers.dev/?no_stream=true&user_id=900442491961106512)](https://svg-spotify-status.thearmagan.workers.dev/)
+
